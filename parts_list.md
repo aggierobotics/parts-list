@@ -24,5 +24,6 @@
 * Sparkfun Tactile Button Assortment .95 (10)
 * Sparkfun Magnetic door Switch Set (5) .95
 * Sparkfun Rocker Switch .50 (5)
-## Tools
+## Tools 
+* Ethernet crimping tool Ethernet Crimping Tool
 
