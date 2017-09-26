@@ -9,6 +9,8 @@
 * Adafruit Motor/Stepper/Servo Shield
 * Arduino Leanardo (#) 9.80
 * SunFounder Project Super Starter Kit for Arduino 5.99 (#)
+* Arduino Uno (20)
+* Arduino Nano (40)
 ## Boards
 * WB- 102+J Solderless Breadboard with Jumpers .99 (#)
 * Solderable Perf Board (1.5 x1.75) .78 (10)
@@ -50,3 +52,6 @@
 * Dymo Label Printer (1)
 ## Hardware
 * Fastener/Spacer sets (2)
+## Electrical Equipment
+* Power supply (3)
+* Digital Oscilloscope (3)
