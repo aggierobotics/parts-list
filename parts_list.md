@@ -26,4 +26,27 @@
 * Sparkfun Rocker Switch .50 (5)
 ## Tools 
 * Ethernet crimping tool Ethernet Crimping Tool
-
+## Soldering
+* irons with stand for Weller WX1 (6)
+* Weller SP25NKUS for workshops (10)
+* Weller WSA350 smoke absorber (3)
+* pads for Weller WSA350 (6)
+* Solder!
+* Soldering Flux
+* Solder Wick
+* Desoldering iron for Weller WX1 with stand(2)
+* Desoldering pumps (10)
+* PCB Soldering clamp (2)
+* Third Hand (4)
+## OtherMill
+* Double-sided copper (200)
+* Drive belt for othermill (1)
+## Prototype Computing
+* Raspberry Pi 3 (20)
+* 32 GB Class 10 MicroSD Cards (30)
+* Raspberry Pi 3 Case (20)
+* USB SD Card Reader (5)
+## Office Supplies
+* Dymo Label Printer (1)
+## Hardware
+* Fastener/Spacer sets (2)
