@@ -65,11 +65,12 @@ Hookup Wire Set 22AWG | 10 | $24.75 | $247.50 | https://www.adafruit.com/product
 ## OtherMill
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Double-sided copper (200)
-* Drive belt for othermill (1)
-* 1/32 Bit (20)
-* double sided tape (20)
-* Milwaukee shop vac 12v
+Double-sided Circuit Board Blanks (25 pack) | $32.00 | 8 | $256.00 | https://www.bantamtools.com/collections/materials/products/pcb?variant=585249129
+Pulley Belt Set | $3.00 | 2 | $6.00 | https://www.bantamtools.com/collections/spare-parts/products/othermill-pulley-belts
+0.0005" Engraving Bit (10-pack) | $216.00 | 2 | $432.00 | https://www.bantamtools.com/collections/end-mills-and-bits/products/pcb-engraving-bits?variant=41469245520
+Scotch Double-sided Tape (2 pack) | $6.10 | 10 | $61.00 | https://www.amazon.com/Scotch-Double-Dispenser-Inches-137DM-2/dp/B002VLA5SI/ref=sr_1_3?ie=UTF8&qid=1506635933&sr=8-3&keywords=double+sided+tape
+12 Volt Vacuum | $59.00 | 1 | $59.00 | http://www.homedepot.com/p/Milwaukee-M12-12-Volt-Lithium-Ion-Cordless-Compact-Vacuum-Tool-Only-0850-20/205482386
+12 Volt Battery w/ Charger | $69.00 | 1 | $69.00 | http://www.homedepot.com/p/Milwaukee-M12-12-Volt-Lithium-Ion-Compact-Battery-Pack-2-0Ah-and-Charger-Starter-Kit-48-59-2420/205846389
 
 
 ## Prototype Computing
