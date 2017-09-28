@@ -18,18 +18,20 @@ Universal Perfboard | $4.46 | 50 | $223.00 | https://www.adafruit.com/product/26
 ## Components
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Resistor kit - ¼ W (500 total) .95 (2)
-* SparkFun Capacitor Kit .95 (3)
-* SparkFun LED Starter Kit 9.95 (1)
-* Sparkfun Thumb JoyStick .95 (50)
-* Sparkfun Tactile Button Assortment .95 (10)
-* Sparkfun Magnetic door Switch Set (10) .95
-* Sparkfun Rocker Switch .50 (10)
-* Assorted transistors kit (3)
-* IC Assorted Headers (100)
-* Assorted Pin Headers (100)
-* Assorted LEDs (500)
-* Motors (50)
+Resistor Kit | $7.95 | 1 | $7.95 |  https://www.sparkfun.com/products/10969
+Capacitor Kit | $6.95 | 1 | $6.95 | https://www.sparkfun.com/products/13698
+LED Starter Kit | $29.95 | 5 | $149.75 | https://www.sparkfun.com/products/13234
+Thumb Joystick  | $3.75 | 50 | $187.50 |  https://www.sparkfun.com/products/9032
+Tactile Button Assortment | $4.95 | 10 | $49.50 | https://www.sparkfun.com/products/10302
+Magnetic Door Switch Set | $2.95 | 10 | $29.50 | https://www.sparkfun.com/products/13247
+Rocker Switch | $0.50 | 50 | $25.00 | https://www.sparkfun.com/products/11138
+Discrete Semiconductor Kit | $8.95 | 5 | $44.75 | https://www.sparkfun.com/products/13682
+8 pin socket (3 pack) | $0.75 | 5 | $3.75 | https://www.adafruit.com/product/2202
+16 pin socket (3 pack) | $0.95 | 5 | $4.75 | https://www.adafruit.com/product/2203
+28 pin socket (3 pack) | $1.25 | 5 | $6.25 | https://www.adafruit.com/product/2205
+40 pin socket (3 pack)  | $1.50 | 5 | $7.50 | https://www.adafruit.com/product/2207
+Header Pins | $0.50 | 50 | $25.00 | https://www.adafruit.com/product/3002
+DC Motor | $1.76 | 50 | $88.00 | https://www.adafruit.com/product/711
 
 
 ## Tools
