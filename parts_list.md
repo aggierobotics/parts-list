@@ -1,6 +1,9 @@
 # Aggie Robotics Parts List
 
 ## Microcontrollers
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
+  |   |   |   |  
 * Adafruit ARDX Starter Kits - 5 (#)
 * Adafruit Motor/Stepper/Servo Shield
 * Arduino Leonardo (#) 9.80
