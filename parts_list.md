@@ -6,13 +6,20 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 Adafruit Motor/Stepper/Servo Shield | $17.96 | 20 |  $359.20 | https://www.adafruit.com/product/1438
 Arduino Uno | $24.95 | 20 | $499.00 | https://www.adafruit.com/product/50
 Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATmega328P-without-compatible/dp/B0713XK923/ref=sr_1_3?s=electronics&ie=UTF8&qid=1506629392&sr=1-3&keywords=arduino+nano
+
 ## Boards
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * WB- 102+J Solderless Breadboard with Jumpers .99 (100)
 * Solderable Perf Board (1.5 x1.75) .78 (10)
 * Solderable Perf Board (1.87 x2.25) .95(10)
 * Solderable Perf Board (2.5 x3.125) .35 (10)
 * Solderable Perf Board (3 x4.25) .97(10)
+
+
 ## Components
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Resistor kit - ¼ W (500 total) .95 (2)
 * SparkFun Capacitor Kit .95 (3)
 * SparkFun LED Starter Kit 9.95 (1)
@@ -25,11 +32,17 @@ Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATme
 * Assorted Pin Headers (100)
 * Assorted LEDs (500)
 * Motors (50)
+
+
 ## Tools
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Ethernet crimping tool (3)
 * Craftsman 9-41711 (3)
 * Greenlee PA1123 (3)
 * Greenlee PA1176 (3)
+
+
 ## Soldering
 * irons with stand for Weller WX1 (6)
 * Weller SP25NKUS for workshops (10)
@@ -46,12 +59,16 @@ Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATme
 * Third Hand (4)
 * 22 gauge hookup wire box (2)
 * 20 gauge hookup wire box (2)
+
+
 ## OtherMill
 * Double-sided copper (200)
 * Drive belt for othermill (1)
 * 1/32 Bit (20)
 * double sided tape (20)
 * Milwaukee shop vac 12v
+
+
 ## Prototype Computing
 * Raspberry Pi 3 (20)
 * 32 GB Class 10 MicroSD Cards (30)
@@ -59,6 +76,8 @@ Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATme
 * USB SD Card Reader (5)
 * Raspberry Pi touch screens (20)
 * USB Keyboards (20)
+
+
 ## Office Supplies
 * Dymo Label Printer (1)
 * Cat6 Ethernet Cable 1000 ft spool (1)
@@ -67,10 +86,14 @@ Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATme
 * first aid kit
 * Board markers
 * taffelappen
+
+
 ## Hardware
 * Fastener/Spacer sets (2)
 * Electrical Tape (10)
 * Crimp terminal set (2)
+
+
 ## Electrical Equipment
 * Power supply (3)
 * Digital Oscilloscope (3)
