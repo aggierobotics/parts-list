@@ -44,6 +44,8 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 
 
 ## Soldering
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * irons with stand for Weller WX1 (6)
 * Weller SP25NKUS for workshops (10)
 * Weller WSA350 smoke absorber (3)
@@ -62,6 +64,8 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 
 
 ## OtherMill
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Double-sided copper (200)
 * Drive belt for othermill (1)
 * 1/32 Bit (20)
@@ -70,6 +74,8 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 
 
 ## Prototype Computing
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Raspberry Pi 3 (20)
 * 32 GB Class 10 MicroSD Cards (30)
 * Raspberry Pi 3 Case (20)
@@ -79,6 +85,8 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 
 
 ## Office Supplies
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Dymo Label Printer (1)
 * Cat6 Ethernet Cable 1000 ft spool (1)
 * Ethernet Switch (1)
@@ -89,12 +97,16 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 
 
 ## Hardware
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Fastener/Spacer sets (2)
 * Electrical Tape (10)
 * Crimp terminal set (2)
 
 
 ## Electrical Equipment
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
 * Power supply (3)
 * Digital Oscilloscope (3)
 
