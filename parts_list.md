@@ -3,12 +3,9 @@
 ## Microcontrollers
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-  |   |   |   |  
-* Adafruit ARDX Starter Kits - 5 (#)
-* Adafruit Motor/Stepper/Servo Shield
-* Arduino Leonardo (10) 9.80
-* Arduino Uno (20)
-* Arduino Nano (40)
+Adafruit Motor/Stepper/Servo Shield | $17.96 | 20 |  $359.20 | https://www.adafruit.com/product/1438
+Arduino Uno | $24.95 | 20 | $499.00 | https://www.adafruit.com/product/50
+Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATmega328P-without-compatible/dp/B0713XK923/ref=sr_1_3?s=electronics&ie=UTF8&qid=1506629392&sr=1-3&keywords=arduino+nano
 ## Boards
 * WB- 102+J Solderless Breadboard with Jumpers .99 (100)
 * Solderable Perf Board (1.5 x1.75) .78 (10)
@@ -79,3 +76,8 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 * Digital Oscilloscope (3)
 
 Some sort of robotics kits
+
+### Vendor Preferences
+1. Adafruit
+2. SparkFun
+3. Mouser
