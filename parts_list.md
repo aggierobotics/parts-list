@@ -37,10 +37,10 @@ DC Motor | $1.76 | 50 | $88.00 | https://www.adafruit.com/product/711
 ## Tools
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Ethernet crimping tool (3)
-* Craftsman 9-41711 (3)
-* Greenlee PA1123 (3)
-* Greenlee PA1176 (3)
+Ethernet Crimping Tool |  $16.59 | 3 | $49.77 | https://www.amazon.com/TRENDnet-RJ-45-RJ-12-RJ-11-TC-CT68/dp/B0000AZK4G/ref=sr_1_3?ie=UTF8&qid=1506631925&sr=8-3&keywords=ethernet+crimper
+Craftsman Precision Screwdriver Set | $57.47 | 3 | $172.41 | https://www.amazon.com/Craftsman-9-41711-Screwdriver-Set-24-Piece/dp/B007KHEQ06/ref=sr_1_1?s=hi&ie=UTF8&qid=1506631983&sr=1-1&keywords=craftsman+9-41711
+Greenlee PA1123  | $27.54 | 3 | $82.62 | https://www.amazon.com/Greenlee-Communications-22-10-Strippers-Bundle/dp/B000X4X23U/ref=sr_1_1?s=hi&ie=UTF8&qid=1506632039&sr=1-1&keywords=greenlee+Pa1123
+Greenlee PA1176 | $12.79 | 3 | $38.37 | https://www.amazon.com/Greenlee-PA1176-Electrical-Terminal-Crimper/dp/B007YXBUO6/ref=sr_1_1?s=hi&ie=UTF8&qid=1506632116&sr=1-1&keywords=greenlee+Pa1176
 
 
 ## Soldering
