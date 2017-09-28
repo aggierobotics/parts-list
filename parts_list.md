@@ -10,11 +10,9 @@ Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATme
 ## Boards
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* WB- 102+J Solderless Breadboard with Jumpers .99 (100)
-* Solderable Perf Board (1.5 x1.75) .78 (10)
-* Solderable Perf Board (1.87 x2.25) .95(10)
-* Solderable Perf Board (2.5 x3.125) .35 (10)
-* Solderable Perf Board (3 x4.25) .97(10)
+Solderless Breadboard | $4.76 | 100 | $476.00 | https://www.adafruit.com/product/239
+Solderless Breadboard with Power | $19.95 | 5 | $99.75 | https://www.adafruit.com/product/443
+Universal Perfboard | $4.46 | 50 | $223.00 | https://www.adafruit.com/product/2670
 
 
 ## Components
