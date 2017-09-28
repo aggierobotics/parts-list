@@ -1,11 +1,7 @@
-# Welcome to the parts list
-
-**Add stuff as you see fit!!**
-
-![](https://s-media-cache-ak0.pinimg.com/736x/5a/ea/b7/5aeab75a370ff60cefd741ea54925308.jpg)
+# Aggie Robotics Parts List
 
 ## Microcontrollers
-* Adafruit ARDX Starter Kits - 5 (#) 
+* Adafruit ARDX Starter Kits - 5 (#)
 * Adafruit Motor/Stepper/Servo Shield
 * Arduino Leonardo (#) 9.80
 * SunFounder Project Super Starter Kit for Arduino 5.99 (#)
@@ -30,7 +26,7 @@
 * IC Assorted Headers (#)
 * Assorted Pin Headers (#)
 * Assorted LEDs (500)
-## Tools 
+## Tools
 * Ethernet crimping tool Ethernet Crimping Tool
 * Craftsman 9-41711 (2)
 * Greenlee PA1123 (2)
