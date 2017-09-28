@@ -46,21 +46,20 @@ Greenlee PA1176 | $12.79 | 3 | $38.37 | https://www.amazon.com/Greenlee-PA1176-E
 ## Soldering
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* irons with stand for Weller WX1 (6)
-* Weller SP25NKUS for workshops (10)
-* Weller WSA350 smoke absorber (3)
-* pads for Weller WSA350 (6)
-* Solder Small (30)
-* Solder med (3)
-* Solder stand (30)
-* Soldering Flux
-* Solder Wick
-* Desoldering iron for Weller WX1 with stand(2)
-* Desoldering pumps (10)
-* PCB Soldering clamp (2)
-* Third Hand (4)
-* 22 gauge hookup wire box (2)
-* 20 gauge hookup wire box (2)
+Weller WXP65 with Stand | $273.00 | 6 | $1638.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/0052921299/?qs=sGAEpiMZZMsNAYL%252bvlSPEHMZVBYr9N4X
+Weller WXDP120 with Stand | $418.00 | 2 | $836.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/T0051320299N/?qs=sGAEpiMZZMve4%2fbfQkoj%252bJ3IV1f8kPgEi0pC5S2kLUk%3d
+Weller SP25NKUS | $20.20 | 10 | $202.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/SP25NKUS/?qs=%2fha2pyFaduhTTPPUMl1Qs5mrtL%2fa3BonH8b46a74yZ0%3d
+Weller WSA350 Smoke Absorber | $72.70 | 3 | $218.10 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/WSA350/?qs=sGAEpiMZZMsgi4BqhxuE1dFLgwuKvTpldGyD1j1NBro%3d
+Weller WSA250F Pads (3 pack) | $7.60 | 2 | $15.20 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/WSA350F/?qs=sGAEpiMZZMsgi4BqhxuE1dFLgwuKvTpljGFIYtnX598%3d
+Spool 0.031" Solder | $24.95 | 3 | $74.85 | https://www.adafruit.com/product/734
+Helping Third Hand | $6.00 | 4 | $24.00 | https://www.adafruit.com/product/291
+PCB Vise | $28.00 | 2 | $56.00 | https://www.adafruit.com/product/151
+Solder Sucker | $4.50 | 10 | $45.00 | https://www.adafruit.com/product/148
+Solder Wick | $2.70 | 12 | $32.40 | https://www.adafruit.com/product/149
+Solder Flux | $15.95 | 6 | $95.70 | https://www.adafruit.com/product/2667
+Solder Stand | $11.35 | 30 | $340.50 | https://www.sparkfun.com/products/14232
+Solder Spool 0.02" | $28.45 | 30 | $853.50 | https://www.sparkfun.com/products/10242
+Hookup Wire Set 22AWG | 10 | $24.75 | $247.50 | https://www.adafruit.com/product/3174
 
 
 ## OtherMill
