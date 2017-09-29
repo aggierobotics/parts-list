@@ -76,12 +76,13 @@ Scotch Double-sided Tape (2 pack) | $6.10 | 10 | $61.00 | https://www.amazon.com
 ## Prototype Computing
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Raspberry Pi 3 (20)
-* 32 GB Class 10 MicroSD Cards (30)
-* Raspberry Pi 3 Case (20)
-* USB SD Card Reader (5)
-* Raspberry Pi touch screens (20)
-* USB Keyboards (20)
+Raspberry Pi 3 | $35.00 | 20 | $700.00 | https://www.adafruit.com/product/3055
+16 GB Class 10 MicroSD Card | $18.95 | 30 | $379.00 | https://www.sparkfun.com/products/13833ad
+Raspberry Pi 3 Case | $11.95  | 20 | $239.00 | https://www.adafruit.com/product/2619
+Raspberry Pi Power Supply | $7.50 | 25 | $187.50 | https://www.adafruit.com/product/1995
+Raspberry Pi Display | $44.95 | 20 | $899.00 | https://www.adafruit.com/product/2441
+Keyboard, Mouse, HDMI for Raspberry Pi | $22.95 | 20 | $459.00 | https://www.adafruit.com/product/2129
+USB SD Card Reader | $9.99 | 5 | $49.95 | https://www.amazon.com/Anker-Portable-Reader-RS-MMC-Micro/dp/B006T9B6R2/ref=sr_1_3?ie=UTF8&qid=1506654454&sr=8-3&keywords=micro+sd+card+reader
 
 
 ## Office Supplies
