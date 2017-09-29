@@ -99,9 +99,9 @@ White Board Cleaning Cloth | $4.34 | 2 | $8.68 | https://www.amazon.com/EXPO-Mic
 ## Hardware
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Fastener/Spacer sets (2)
-* Electrical Tape (10)
-* Crimp terminal set (2)
+Spacer/Standoff Screw Sets | $12.97 | 2 | $25.94 | https://www.amazon.com/240Pcs-Brass-Spacer-Standoff-Assortment/dp/B00MNG2T6W/ref=pd_sim_328_2?_encoding=UTF8&pd_rd_i=B00MNG2T6W&pd_rd_r=HY32C5QF8HYHNSZTAW10&pd_rd_w=VkkDu&pd_rd_wg=y7C3D&psc=1&refRID=HY32C5QF8HYHNSZTAW10
+Electrical Tape (10 pack) | $12.70 | 1 | $12.70 | https://www.amazon.com/Industrial-Grade-Electrical-Tape-60/dp/B00CA1DHM0/ref=sr_1_2?s=hi&ie=UTF8&qid=1506655503&sr=1-2&keywords=bulk+electrical+tape
+Crimp Terminal Set | $28.99 | 1 | $28.99 | https://www.amazon.com/SOLOOP-Electrical-Connectors-Insulated-Assortment/dp/B0168G5YFA/ref=sr_1_2_sspa?s=hi&ie=UTF8&qid=1506655535&sr=1-2-spons&keywords=crimp+terminal+set&psc=1
 
 
 ## Electrical Equipment
