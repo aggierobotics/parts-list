@@ -107,12 +107,13 @@ Crimp Terminal Set | $28.99 | 1 | $28.99 | https://www.amazon.com/SOLOOP-Electri
 ## Electrical Equipment
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | ------------
-* Power supply (3)
-* Digital Oscilloscope (3)
+DC Power Supply | $79.99 | 3 | $239.97 | https://www.amazon.com/gp/product/B00ZBCLJSY/ref=abs_brd_tag_dp?smid=AMH4W1K8OCGMX
+function Generator | $318.89 | 1 | $318.89 | https://www.amazon.com/Siglent-SDG1025-Function-Arbitrary-Generator/dp/B00GQNNVH4/ref=zg_bs_5011665011_3?_encoding=UTF8&psc=1&refRID=6MDH25K12VXM2NFBMQFB
+Digtial Oscilloscope | $379.00 | 3 | $1137.00 | https://www.amazon.com/Siglent-Technologies-SDS1202X-Oscilloscope-Channels/dp/B06XZML6RD/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1506656090&sr=1-1-spons&keywords=digital+oscilloscope&psc=1
 
-Some sort of robotics kits
 
-### Vendor Preferences
-1. Adafruit
-2. SparkFun
-3. Mouser
+## Robot Components
+Item | Unit Price | Quantity | Total Price | Purchase Link
+------------ | ------------ | ------------ | ------------ | ------------
+Vex Classroom Bundle | $5299.99 | 1 | $5299.99 | https://www.vexrobotics.com/vexedr/products/kits-and-bundles/278-3333.html
+Vex Booster Kit | $179.99 | 5 | $899.95 | https://www.vexrobotics.com/276-2232.html
