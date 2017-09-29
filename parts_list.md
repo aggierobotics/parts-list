@@ -2,14 +2,14 @@
 
 ## Microcontrollers
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Adafruit Motor/Stepper/Servo Shield | $17.96 | 20 |  $359.20 | https://www.adafruit.com/product/1438
 Arduino Uno | $24.95 | 20 | $499.00 | https://www.adafruit.com/product/50
 Arduino Nano | $3.95 | 40 | $158.13 | https://www.amazon.com/Arduino-Elegoo-ATmega328P-without-compatible/dp/B0713XK923/ref=sr_1_3?s=electronics&ie=UTF8&qid=1506629392&sr=1-3&keywords=arduino+nano
 
 ## Boards
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Solderless Breadboard | $4.76 | 100 | $476.00 | https://www.adafruit.com/product/239
 Solderless Breadboard with Power | $19.95 | 5 | $99.75 | https://www.adafruit.com/product/443
 Universal Perfboard | $4.46 | 50 | $223.00 | https://www.adafruit.com/product/2670
@@ -17,7 +17,7 @@ Universal Perfboard | $4.46 | 50 | $223.00 | https://www.adafruit.com/product/26
 
 ## Components
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Resistor Kit | $7.95 | 1 | $7.95 |  https://www.sparkfun.com/products/10969
 Capacitor Kit | $6.95 | 1 | $6.95 | https://www.sparkfun.com/products/13698
 LED Starter Kit | $29.95 | 5 | $149.75 | https://www.sparkfun.com/products/13234
@@ -36,7 +36,7 @@ DC Motor | $1.76 | 50 | $88.00 | https://www.adafruit.com/product/711
 
 ## Tools
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Ethernet Crimping Tool |  $16.59 | 3 | $49.77 | https://www.amazon.com/TRENDnet-RJ-45-RJ-12-RJ-11-TC-CT68/dp/B0000AZK4G/ref=sr_1_3?ie=UTF8&qid=1506631925&sr=8-3&keywords=ethernet+crimper
 Craftsman Precision Screwdriver Set | $57.47 | 3 | $172.41 | https://www.amazon.com/Craftsman-9-41711-Screwdriver-Set-24-Piece/dp/B007KHEQ06/ref=sr_1_1?s=hi&ie=UTF8&qid=1506631983&sr=1-1&keywords=craftsman+9-41711
 Greenlee PA1123  | $27.54 | 3 | $82.62 | https://www.amazon.com/Greenlee-Communications-22-10-Strippers-Bundle/dp/B000X4X23U/ref=sr_1_1?s=hi&ie=UTF8&qid=1506632039&sr=1-1&keywords=greenlee+Pa1123
@@ -45,7 +45,7 @@ Greenlee PA1176 | $12.79 | 3 | $38.37 | https://www.amazon.com/Greenlee-PA1176-E
 
 ## Soldering
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Weller WXP65 with Stand | $273.00 | 6 | $1638.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/0052921299/?qs=sGAEpiMZZMsNAYL%252bvlSPEHMZVBYr9N4X
 Weller WXDP120 with Stand | $418.00 | 2 | $836.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/T0051320299N/?qs=sGAEpiMZZMve4%2fbfQkoj%252bJ3IV1f8kPgEi0pC5S2kLUk%3d
 Weller SP25NKUS | $20.20 | 10 | $202.00 | http://www.mouser.com/ProductDetail/Apex-Tool-Group/SP25NKUS/?qs=%2fha2pyFaduhTTPPUMl1Qs5mrtL%2fa3BonH8b46a74yZ0%3d
@@ -63,7 +63,7 @@ Hookup Wire Set 22AWG | 10 | $24.75 | $247.50 | https://www.adafruit.com/product
 
 ## OtherMill
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Double-sided Circuit Board Blanks (25 pack) | $32.00 | 8 | $256.00 | https://www.bantamtools.com/collections/materials/products/pcb?variant=585249129
 Pulley Belt Set | $3.00 | 2 | $6.00 | https://www.bantamtools.com/collections/spare-parts/products/othermill-pulley-belts
 0.0005" Engraving Bit (10-pack) | $216.00 | 2 | $432.00 | https://www.bantamtools.com/collections/end-mills-and-bits/products/pcb-engraving-bits?variant=41469245520
@@ -74,7 +74,7 @@ Scotch Double-sided Tape (2 pack) | $6.10 | 10 | $61.00 | https://www.amazon.com
 
 ## Prototype Computing
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Raspberry Pi 3 | $35.00 | 20 | $700.00 | https://www.adafruit.com/product/3055
 16 GB Class 10 MicroSD Card | $18.95 | 30 | $379.00 | https://www.sparkfun.com/products/13833ad
 Raspberry Pi 3 Case | $11.95  | 20 | $239.00 | https://www.adafruit.com/product/2619
@@ -86,7 +86,7 @@ USB SD Card Reader | $9.99 | 5 | $49.95 | https://www.amazon.com/Anker-Portable-
 
 ## Office Supplies
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Dymo Label Printer | $10.68 | 1 | $10.68 | https://www.amazon.com/DYMO-LabelManager-Handheld-Label-1790415/dp/B005X9VZ70/ref=sr_1_5?s=office-products&ie=UTF8&qid=1506654637&sr=1-5&keywords=label+printer
 Cat6 Ethernet Cable Spool | $325.74 | 1 | $325.74 | http://www.mouser.com/ProductDetail/Belden-Wire-Cable/2412-008A1000/?qs=sGAEpiMZZMvo3LfgFpQA%252bPNw7K1aS5N%2fk46yapKqrMk%3d
 16 Port Ethernet Switch | $48.99 | 1 | $48.99 | https://www.amazon.com/NETGEAR-ProSAFE-FS116NA-16-Port-Ethernet/dp/B000063UZW/ref=sr_1_4?ie=UTF8&qid=1506654977&sr=8-4&keywords=netgear+16+port+ethernet+switch
@@ -98,7 +98,7 @@ White Board Cleaning Cloth | $4.34 | 2 | $8.68 | https://www.amazon.com/EXPO-Mic
 
 ## Hardware
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Spacer/Standoff Screw Sets | $12.97 | 2 | $25.94 | https://www.amazon.com/240Pcs-Brass-Spacer-Standoff-Assortment/dp/B00MNG2T6W/ref=pd_sim_328_2?_encoding=UTF8&pd_rd_i=B00MNG2T6W&pd_rd_r=HY32C5QF8HYHNSZTAW10&pd_rd_w=VkkDu&pd_rd_wg=y7C3D&psc=1&refRID=HY32C5QF8HYHNSZTAW10
 Electrical Tape (10 pack) | $12.70 | 1 | $12.70 | https://www.amazon.com/Industrial-Grade-Electrical-Tape-60/dp/B00CA1DHM0/ref=sr_1_2?s=hi&ie=UTF8&qid=1506655503&sr=1-2&keywords=bulk+electrical+tape
 Crimp Terminal Set | $28.99 | 1 | $28.99 | https://www.amazon.com/SOLOOP-Electrical-Connectors-Insulated-Assortment/dp/B0168G5YFA/ref=sr_1_2_sspa?s=hi&ie=UTF8&qid=1506655535&sr=1-2-spons&keywords=crimp+terminal+set&psc=1
@@ -106,7 +106,7 @@ Crimp Terminal Set | $28.99 | 1 | $28.99 | https://www.amazon.com/SOLOOP-Electri
 
 ## Electrical Equipment
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 DC Power Supply | $79.99 | 3 | $239.97 | https://www.amazon.com/gp/product/B00ZBCLJSY/ref=abs_brd_tag_dp?smid=AMH4W1K8OCGMX
 function Generator | $318.89 | 1 | $318.89 | https://www.amazon.com/Siglent-SDG1025-Function-Arbitrary-Generator/dp/B00GQNNVH4/ref=zg_bs_5011665011_3?_encoding=UTF8&psc=1&refRID=6MDH25K12VXM2NFBMQFB
 Digtial Oscilloscope | $379.00 | 3 | $1137.00 | https://www.amazon.com/Siglent-Technologies-SDS1202X-Oscilloscope-Channels/dp/B06XZML6RD/ref=sr_1_1_sspa?s=industrial&ie=UTF8&qid=1506656090&sr=1-1-spons&keywords=digital+oscilloscope&psc=1
@@ -114,6 +114,6 @@ Digtial Oscilloscope | $379.00 | 3 | $1137.00 | https://www.amazon.com/Siglent-T
 
 ## Robot Components
 Item | Unit Price | Quantity | Total Price | Purchase Link
------------- | ------------ | ------------ | ------------ | ------------
+------------ | ------------ | ------------ | ------------ | -------------------------
 Vex Classroom Bundle | $5299.99 | 1 | $5299.99 | https://www.vexrobotics.com/vexedr/products/kits-and-bundles/278-3333.html
 Vex Booster Kit | $179.99 | 5 | $899.95 | https://www.vexrobotics.com/276-2232.html
