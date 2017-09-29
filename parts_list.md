@@ -110,6 +110,7 @@ Item | Unit Price | Quantity | Total Price | Purchase Link
 DC Power Supply | $79.99 | 3 | $239.97 | http://amzn.to/2x04v79
 Function Generator | $318.89 | 1 | $318.89 | http://amzn.to/2xBRS1v
 Digtial Oscilloscope | $379.00 | 3 | $1137.00 | http://amzn.to/2fCwv9o
+Digital Multimeter | $23.69 | 10 | $236.90 | http://amzn.to/2yMFXM5
 
 
 ## Robot Components
