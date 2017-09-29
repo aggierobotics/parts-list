@@ -116,4 +116,4 @@ Digtial Oscilloscope | $379.00 | 3 | $1137.00 | https://www.amazon.com/Siglent-T
 Item | Unit Price | Quantity | Total Price | Purchase Link
 ------------ | ------------ | ------------ | ------------ | -------------------------
 Vex Classroom Bundle | $5299.99 | 1 | $5299.99 | https://www.vexrobotics.com/vexedr/products/kits-and-bundles/278-3333.html
-Vex Booster Kit | $179.99 | 5 | $899.95 | https://www.vexrobotics.com/276-2232.html
+Vex Advanced Sensor Kit | $99.99 | 6 | $599.94 | https://www.vexrobotics.com/vexedr/products/accessories/electronics/275-1179.html
